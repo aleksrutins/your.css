@@ -1,4 +1,6 @@
 # your.css
+Copyright © 2021 Aleks Rutins \
+License: MIT \
 Endlessly customizable vanilla CSS library. Because marketing. Opinionated and unopinionated at the same time.
 ## Usage
 [Get it from NPM](https://npm.im/your.css) or get it from a CDN:
