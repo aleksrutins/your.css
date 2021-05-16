@@ -46,6 +46,10 @@ body {
     --title-size: 100px;
     /* Font size for `h2.subtitle` */
     --subtitle-size: 42px;
+    /* Font weight for `h1.title` */
+    --title-weight: 300;
+    /* Font weight for `h2.subtitle` */
+    --subtitle-weight: var(--title-weight);
 
     font-family: var(--font-family);
     margin: 0;
@@ -56,6 +60,7 @@ h1.title {
     font-family: var(--title-font);
     color: var(--title-color);
     font-size: var(--title-size);
+    font-weight: var(--title-weight);
     display: block;
     letter-spacing: 1px;
     margin: 0;
@@ -66,6 +71,7 @@ h2.subtitle {
     font-family: var(--subtitle-font);
     color: var(--subtitle-color);
     font-size: var(--subtitle-size);
+    font-weight: var(--subtitle-weight);
     display: block;
     word-spacing: 5px;
     margin: 0;
