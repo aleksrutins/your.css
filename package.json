@@ -1,0 +1,9 @@
+{
+  "name": "your.css",
+  "version": "1.0.0",
+  "description": "Customizable CSS library",
+  "main": "your.css",
+  "repository": "https://github.com/aleksrutins/your.css.git",
+  "author": "Aleks Rutins <aleks@rutins.com>",
+  "license": "BSD-2-Clause"
+}
